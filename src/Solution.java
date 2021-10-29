@@ -32,7 +32,7 @@ Preu total
 Sample Input 0
 
 1
-1
+1dfdf
 1
 1
 1
